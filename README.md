@@ -1,2 +1,0 @@
-# BDII
-Tarefas BDII
