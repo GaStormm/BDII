@@ -7,6 +7,7 @@ d) Se houver impacto, relatá-lo, caracterizando o cenário do teste realizado e
 e) Se não houver impacto, escolher outra otimização (variar o X) e retornar ao passo c)
 
 					Resposta:
-Inicialmente, o sistema demandava 20ms para apresentar os resultados selecionados. No entanto, após a implementação da otimização de índice, houve uma significativa melhoria, reduzindo drasticamente o tempo de resposta para apenas 4ms. Essa mudança teve um impacto substancial no desempenho do sistema, aprimorando consideravelmente sua eficiência operacional.
+Inicialmente, o sistema demandava 20ms para apresentar os resultados selecionados. No entanto, após a implementação da otimização de índice,
+houve uma significativa melhoria, reduzindo drasticamente o tempo de resposta para apenas 4ms. Essa mudança teve um impacto substancial no desempenho do sistema, aprimorando consideravelmente sua eficiência operacional.
 
 Banco de dados utilizado: https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
